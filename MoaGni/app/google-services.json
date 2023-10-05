@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "76442384083",
+    "project_id": "mouagniapp",
+    "storage_bucket": "mouagniapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76442384083:android:afcb381fc776490be6c626",
+        "android_client_info": {
+          "package_name": "com.example.moagni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76442384083-l4s5mbim06o0c6enj6rdlook586r9in1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs6yre4JtGWxCyoYu2xsPa26VPjd-eSzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76442384083-l4s5mbim06o0c6enj6rdlook586r9in1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
